@@ -1,9 +1,9 @@
 # Job Portal
 
 A full-stack application for managing job listings, applications, recruiters and job seekers — built to simplify the hiring workflow and provide a clean, user-friendly experience.
-![App Screenshot](./Screenshot1.png)
-
 ![App Screenshot](./Screenshot.png)
+
+![App Screenshot](./Screenshot1.png)
 
 
 ---
