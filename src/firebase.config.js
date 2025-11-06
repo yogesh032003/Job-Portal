@@ -4,12 +4,12 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDyy8fLBLYenRSOisQh6c_T9slpa5T92b0",
-  authDomain: "online-job-portal-1d0fa.firebaseapp.com",
-  projectId: "online-job-portal-1d0fa",
-  storageBucket: "online-job-portal-1d0fa.appspot.com",
-  messagingSenderId: "1034291259431",
-  appId: "1:1034291259431:web:64cba9034d1371998d0602",
+  apiKey: "Enter your Firebase API key",
+  authDomain: "Enter your Firebase Auth domain",
+  projectId: "Enter your Firebase Project ID",
+  storageBucket: "Enter your Firebase Storage bucket",
+  messagingSenderId: "Enter your Firebase Messaging sender ID",
+  appId: "Enter your Firebase App ID",
 };
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
